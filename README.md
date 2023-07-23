@@ -94,5 +94,4 @@ If you have any ideas to make it more interesting, please send a PR or create an
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+> Github [@Treys1704](https://github.com/Treys1704) &nbsp;&middot;&nbsp;
